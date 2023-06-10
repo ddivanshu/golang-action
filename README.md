@@ -70,9 +70,3 @@ steps:
 - name: Use Go 1.11
   uses: cedrickring/golang-action/go1.11@1.6.0
 ```
-
-
-ffff
-1232
-
-jj
